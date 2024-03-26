@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  recipe-app
 //
-//  Created by Huy Atlan on 26/03/2024.
+//  Created by Huy Lai on 26/03/2024.
 //
 
 import UIKit

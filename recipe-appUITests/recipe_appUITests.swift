@@ -2,7 +2,7 @@
 //  recipe_appUITests.swift
 //  recipe-appUITests
 //
-//  Created by Huy Atlan on 26/03/2024.
+//  Created by Huy Lai on 26/03/2024.
 //
 
 import XCTest
